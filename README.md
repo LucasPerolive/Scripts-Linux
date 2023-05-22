@@ -1,4 +1,4 @@
-# Script-Install-Docker-Ubuntu
+# Script-Linux
 
 ## Baixe o repositorio com os scripts
 Execute o seguinte comando para que funcione:
