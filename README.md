@@ -3,7 +3,7 @@
 ## Baixe o repositorio com os scripts
 Execute o seguinte comando para que funcione:
 ```
-git clone https://github.com/LucasPerolive/Script-Docker-Install.git
+git clone https://github.com/LucasPerolive/Scripts-Linux.git
 ```
 
 ## Instala o Docker no Ubuntu
