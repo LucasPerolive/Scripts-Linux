@@ -9,7 +9,7 @@ git clone https://github.com/LucasPerolive/Script-Docker-Install.git
 ## Instala o Docker no Ubuntu
 Execute o seguinte comandos para que funcione:
 ```
-cd Script-Docker-Install
+cd Script-Linux
 chmod +x docker_install.sh
 ./docker_install.sh
 ```
@@ -17,7 +17,7 @@ chmod +x docker_install.sh
 ## Instala a AWS CLI no Ubuntu
 Execute o seguinte comandos para que funcione:
 ```
-cd Script-Docker-Install
+cd Script-Linux
 chmod +x install_awscli.sh
 ./install_awscli.sh
 ```
