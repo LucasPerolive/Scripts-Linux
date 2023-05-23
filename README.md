@@ -21,3 +21,11 @@ cd Scripts-Linux
 chmod +x install_awscli.sh
 ./install_awscli.sh
 ```
+
+## Instala a Interface Grafica no Ubuntu
+Execute o seguinte comandos para que funcione:
+```
+cd Scripts-Linux
+chmod +x install_interfaces.sh
+./install_interfaces.sh
+```
