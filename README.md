@@ -10,7 +10,7 @@ git clone https://github.com/LucasPerolive/Scripts-Linux.git
 Execute o seguinte comandos para que funcione:
 ```
 cd Scripts-Linux
-chmod +x docker_install.sh
+chmod +x install_docker.sh
 ./install_docker.sh
 ```
 
@@ -34,7 +34,7 @@ chmod +x install_interfaces.sh
 Execute o seguinte comandos para que funcione:
 ```
 cd Scripts-Linux
-chmod +x install_interfaces.sh
+chmod +x install_kubectl.sh
 ./install_kubectl.sh
 ```
 
@@ -42,6 +42,6 @@ chmod +x install_interfaces.sh
 Execute o seguinte comandos para que funcione:
 ```
 cd Scripts-Linux
-chmod +x install_interfaces.sh
+chmod +x install_minikube.sh
 ./install_minikube.sh
 ```
