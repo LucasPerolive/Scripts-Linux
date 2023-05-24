@@ -30,18 +30,10 @@ chmod +x install_interfaces.sh
 ./install_interfaces.sh
 ```
 
-## Instala o Kubectl no Ubuntu
+## Instala o Kubectl, Docker e Minikube no Ubuntu
 Execute o seguinte comandos para que funcione:
 ```
 cd Scripts-Linux
-chmod +x install_kubectl.sh
-./install_kubectl.sh
-```
-
-## Instala o Minikube no Ubuntu
-Execute o seguinte comandos para que funcione:
-```
-cd Scripts-Linux
-chmod +x install_minikube.sh
-./install_minikube.sh
+chmod +x install_kubectl_docker_minikube.sh
+./install_kubectl_docker_minikube.sh
 ```
