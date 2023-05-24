@@ -11,7 +11,7 @@ Execute o seguinte comandos para que funcione:
 ```
 cd Scripts-Linux
 chmod +x docker_install.sh
-./docker_install.sh
+./install_docker.sh
 ```
 
 ## Instala a AWS CLI no Ubuntu
