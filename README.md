@@ -29,3 +29,19 @@ cd Scripts-Linux
 chmod +x install_interfaces.sh
 ./install_interfaces.sh
 ```
+
+## Instala o Kubectl no Ubuntu
+Execute o seguinte comandos para que funcione:
+```
+cd Scripts-Linux
+chmod +x install_interfaces.sh
+./install_kubectl.sh
+```
+
+## Instala o Minikube no Ubuntu
+Execute o seguinte comandos para que funcione:
+```
+cd Scripts-Linux
+chmod +x install_interfaces.sh
+./install_minikube.sh
+```
