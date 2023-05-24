@@ -35,5 +35,5 @@ Execute o seguinte comandos para que funcione:
 ```
 cd Scripts-Linux
 chmod +x install_kubectl_docker_minikube.sh
-./install_kubectl_docker_minikube.sh
+sudo ./install_kubectl_docker_minikube.sh
 ```
