@@ -37,3 +37,11 @@ cd Scripts-Linux
 chmod +x install_kubectl_docker_minikube.sh
 sudo ./install_kubectl_docker_minikube.sh
 ```
+
+## Instala o Apache, PHP e MySQL no Ubuntu
+Execute o seguinte comandos para que funcione:
+```
+cd Scripts-Linux
+chmod +x install_apache_php_mysql.sh
+sudo ./install_apache_php_mysql.sh
+```
